@@ -32,8 +32,8 @@ Developed custom Data Analysis Expressions (DAX) for dynamic reporting:
 * Integrated **Slicers** for State, Category, and Payment Mode, allowing for instant "drill-down" analysis.
 
 ## 📂 Repository Contents
-* `Power (version 2).xlsx`: The finalized dashboard including the Data Model and Pivot Charts.
-* `Sales_Dataset.csv`: The raw source data used for this analysis.
+* `Power.xlsx`: The finalized dashboard including the Data Model and Pivot Charts.
+* `Sales_Dataset.xlsx`: The raw source data used for this analysis.
 
 ---
 ## 👤 Contact
