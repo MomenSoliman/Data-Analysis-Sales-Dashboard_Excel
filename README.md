@@ -1,5 +1,5 @@
 # 📊 Executive Sales & Profitability Dashboard (2020 - 2025)
-![Sales Dashboard](Sales Dashboard.png)
+![Sales Dashboard](SalesDashboard.png)
 
 ## 📋 Project Overview
 This project is an end-to-end Data Analytics solution designed to transform raw transactional data into actionable business intelligence. Bridging my operational experience at **Amazon Business** with my studies in **Decision Support** at Cairo University, I built this dashboard to help stakeholders track regional performance, analyze category profitability, and monitor long-term growth trends.
