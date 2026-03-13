@@ -37,6 +37,6 @@ Developed custom Data Analysis Expressions (DAX) for dynamic reporting:
 
 ---
 ## 👤 Contact
-**Moamen Soliman** *Computer Science Student (Decision Support & Operations Research) @ Cairo University* 
+**Moamen Soliman** *Computer Science Student (Decision Support & Operations Research) @ Cairo University*  
 📫 **Email:** moamenbellah0508295314@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/moamen-soliman-17826323b](https://www.linkedin.com/in/moamen-soliman-17826323b)
